@@ -16,7 +16,7 @@ Screenshot of my code in Jupyter Notebook and the data in the "tripduration" col
 ![This in an image](https://github.com/krisnagoda/NYC_Citibike/blob/92ccd83b20360da03cbca01dc29dbda094e34045/Module%2014%20Challenge%20-%20Deliverable%201.png)
 
 ### Deliverable 2 
-Create Visualizations for the Trip Analysis
+Use the links below to access each interactive data visualizations created using Tableau Public.
  - [Checkout Times for Users](https://public.tableau.com/shared/2YHH2TDNM?:display_count=n&:origin=viz_share_link)
  - [Checkout Times by Gender](https://public.tableau.com/views/Module14Challenge-CheckoutTimesbyGender_16696873281820/CheckoutTimesbyGender?:language=en-US&:display_count=n&:origin=viz_share_link)
  - [Trips by Weekday for Each Hour](https://public.tableau.com/views/Module14Challenge-TripsbyWeekdayforEachHour/TripsbyWeekdayforEachHour?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
