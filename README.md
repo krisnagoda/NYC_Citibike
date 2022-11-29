@@ -5,19 +5,33 @@ Exploratory analysis of the NYC Citibike bike-sharing program data, focused on g
 
 ## Results
 Here are the insights and data visualizations from included Tableau Story.
+
 ![This is an image](https://github.com/krisnagoda/NYC_Citibike/blob/630d6d745e9cd3a4770f250b96f300cdb9e1c4d1/mc14-1.png)
+
 Nearly half or 49% of all rides only last 10 minutes or less; with a peak duration of 5 minutes.
+
 ![This is an image](https://github.com/krisnagoda/NYC_Citibike/blob/630d6d745e9cd3a4770f250b96f300cdb9e1c4d1/mc14-2.png)
+
 Customer behavior varies between weekdays and weekends. On weekdays, we have two events with one peaking at 8AM and the other at 5PM, with softness Wednesday afternoon. On weekends, we have a single event each day with a more gradual build and decline. 
+
 ![This is an image](https://github.com/krisnagoda/NYC_Citibike/blob/630d6d745e9cd3a4770f250b96f300cdb9e1c4d1/mc14-3.png)
+
 While usage of Citibike is predominantly male, the traffic patterns are consistent across each gender.
+
 ![This is an image](https://github.com/krisnagoda/NYC_Citibike/blob/630d6d745e9cd3a4770f250b96f300cdb9e1c4d1/mc14-4.png)
+
 Nonsubscriber usage peaks over the weekend with new users.
+
 ![This is an image](https://github.com/krisnagoda/NYC_Citibike/blob/630d6d745e9cd3a4770f250b96f300cdb9e1c4d1/mc14-5.png)
+
 Citibike's #1 riding hour is 5 p.m. with 224,566 riders and a close second of 6 p.m with 215,783 riders.
+
 ![This is an image](https://github.com/krisnagoda/NYC_Citibike/blob/630d6d745e9cd3a4770f250b96f300cdb9e1c4d1/mc14-6.png)
+
 Population density, points of interest, and I’m assuming weather drive usage of the NYC Citibike bikeshare program.
-![This is an image](https://github.com/krisnagoda/NYC_Citibike/blob/630d6d745e9cd3a4770f250b96f300cdb9e1c4d1/mc14-7.png)
+
+![This is an image](https://github.com/krisnagoda/NYC_Citibike/blob/17ef99082281caa5cbf019bf2eb35060b169a4c3/mc14-7.png)
+
 Put it all together on dashboard in a workplace where each employee has an ultrawide monitor.
 
 ## Summary
