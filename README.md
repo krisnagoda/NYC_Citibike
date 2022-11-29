@@ -24,5 +24,5 @@ Use the links below to access each interactive data visualizations created using
  - [User Trips by Gender by Weekday](https://public.tableau.com/views/Module14Challenge-UserTripsbyGenderbyWeekday_16696953954610/UserTripsbyGenderbyWeekday?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
 ### Deliverable 3
-Create a Story and Report for the Final Presentation.
+Use the link below to access the interactive Tableau Story created using Tableau Public.
  - [NYC Citibike Story](https://public.tableau.com/views/Module14Challenge-NYCCitibikeStory/NYCCitibikeStory?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
