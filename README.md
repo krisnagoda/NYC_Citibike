@@ -8,7 +8,7 @@ Here are the insights and data visualizations from included Tableau Story.
 
 ![This is an image](https://github.com/krisnagoda/NYC_Citibike/blob/630d6d745e9cd3a4770f250b96f300cdb9e1c4d1/mc14-1.png)
 
-Nearly half or 49% of all rides only last 10 minutes or less; with a peak duration of 5 minutes.
+Nearly half or 49% of all rides only last 10 minutes or less; with a peak duration of 5 minutes. And rider behavior looks consistent across Male, Female, and Unknown genders.
 
 ![This is an image](https://github.com/krisnagoda/NYC_Citibike/blob/630d6d745e9cd3a4770f250b96f300cdb9e1c4d1/mc14-2.png)
 
