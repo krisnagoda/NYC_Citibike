@@ -12,11 +12,11 @@ Nearly half or 49% of all rides only last 10 minutes or less; with a peak durati
 
 ![This is an image](https://github.com/krisnagoda/NYC_Citibike/blob/630d6d745e9cd3a4770f250b96f300cdb9e1c4d1/mc14-2.png)
 
-Customer behavior varies between weekdays and weekends. On weekdays, we have two events with one peaking at 8AM and the other at 5PM, with softness Wednesday afternoon. On weekends, we have a single event each day with a more gradual build and decline. 
+While usage of Citibike is predominantly male, the traffic patterns are consistent across each gender.
 
 ![This is an image](https://github.com/krisnagoda/NYC_Citibike/blob/630d6d745e9cd3a4770f250b96f300cdb9e1c4d1/mc14-3.png)
 
-While usage of Citibike is predominantly male, the traffic patterns are consistent across each gender.
+Customer behavior varies between weekdays and weekends. On weekdays, we have two events with one peaking at 8AM and the other at 5PM, with softness Wednesday afternoon. On weekends, we have a single event each day with a more gradual build and decline. 
 
 ![This is an image](https://github.com/krisnagoda/NYC_Citibike/blob/630d6d745e9cd3a4770f250b96f300cdb9e1c4d1/mc14-4.png)
 
