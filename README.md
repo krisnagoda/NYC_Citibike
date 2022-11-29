@@ -1,6 +1,6 @@
 # NYC_Citibike
 
-## Overview of the analysis
+## Overview
 Exploratory analysis of the NYC Citibike bike-sharing program data, focused on gaining insight that may inform viability of similar programs in new locations. In this instance we have an investor interested in funding a new bike-sharing program in Des Moines, IA. 
 
 ## Results
