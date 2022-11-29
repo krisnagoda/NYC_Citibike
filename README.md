@@ -12,7 +12,8 @@ Provide a high-level summary of the results and two additional visualizations th
 ## Deliverables for Module 14 Challenge
 
 ### Deliverable 1
-Change Trip Duration to a Datetime Format
+Screenshot of my code in Jupyter Notebook and the data in the "tripduration" column was converted to the datetime datatype and DataFrame exported as a new file without the index column.
+![This in an image](https://github.com/krisnagoda/NYC_Citibike/blob/92ccd83b20360da03cbca01dc29dbda094e34045/Module%2014%20Challenge%20-%20Deliverable%201.png)
 
 ### Deliverable 2 
 Create Visualizations for the Trip Analysis
