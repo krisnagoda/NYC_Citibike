@@ -1,7 +1,7 @@
 # NYC_Citibike
 
 ## Overview of the analysis
-Explain the purpose of this analysis.
+Exploratory analysis of the NYC Citibike bike-sharing program data, focused on gaining insight that may inform viability of similar programs in new locations. In this instance we have an investor interested in funding a new bike-sharing program in Des Moines, IA. 
 
 ## Results
 Using the visualizations you have in your Tableau Story, describe the results of each visualization underneath the image.
