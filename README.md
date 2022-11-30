@@ -35,7 +35,9 @@ Population density, points of interest, and I’m assuming weather drive usage o
 Put it all together on dashboard in a workplace where each employee has an ultrawide monitor.
 
 ## Summary
-Provide a high-level summary of the results and two additional visualizations that you would perform with the given dataset.
+While this analysis did help the team gain insight into patterns in usage by gender, time of day, day of the week, and location; it is recommended that we continue the analysis. To confidently inform viability of a Des Moines bike-sharing program, I recommend we take the following actions:
+ - Expand timeframe of current NYC Citibike analysis, preferable to multiple years. Expanding the timeframe of the existing dataset will expand our understanding of year-over-year growth and seasonal trends we can expect in new locations. 
+ - Identify and analyze alternative bike-sharing program(s) data preferably from a location that possesses comparable population density, number of points of interest, distance between points of interest, and weather. 
 
 ## Deliverables for Module 14 Challenge
 
